@@ -1,6 +1,6 @@
 # fe-spec
 
-nss 前端编码规范工程化
+nss 前端的编码规范工程化
 
 ## :mountain: 能力支持
 
